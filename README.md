@@ -1,1 +1,2 @@
-# Popular_Python_Projects
+# Popular Python Projects
+Parse popular Python projects on GitHub using API requests
